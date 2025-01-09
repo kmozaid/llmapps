@@ -1,0 +1,1 @@
+- Rename .env.example to .env and update environment variables value.
